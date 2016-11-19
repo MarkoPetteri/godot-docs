@@ -73,7 +73,7 @@ Theorem <http://en.wikipedia.org/wiki/Pythagorean_theorem>`__.
 But... angles?
 --------------
 
-But why not using an *angle*? After all, we could also think of a vector
+But why not use an *angle*? After all, we could also think of a vector
 as an angle and a magnitude, instead of a direction and a magnitude.
 Angles also are a more familiar concept.
 
